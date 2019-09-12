@@ -1,0 +1,22 @@
+{
+  "name": "fstest",
+  "version": "1.0.0",
+  "description": "Simple test of fs package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sadministrator/fsTest.git"
+  },
+  "author": "Marco Serrano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sadministrator/fsTest/issues"
+  },
+  "homepage": "https://github.com/sadministrator/fsTest#readme",
+  "dependencies": {
+    "colors": "^1.3.3"
+  }
+}
